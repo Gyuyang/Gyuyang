@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 |Music|⭐⭐⭐⭐|
 |Game|⭐⭐⭐⭐⭐|
 |Math|⭐⭐⭐|
-|
 
 
 >Concat Me with i929625516@sina.com
