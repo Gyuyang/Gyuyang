@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 |Python|⭐⭐⭐|
 |Go|⭐⭐|
 
-|Area|Ratin|
+|Field|Ratin|
 |:--:|:--:|
 |Bank|⭐⭐⭐|
 |Music|⭐⭐⭐⭐|
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 |
 
 
-### _Concat Me with i929625516@sina.com
+>Concat Me with i929625516@sina.com
