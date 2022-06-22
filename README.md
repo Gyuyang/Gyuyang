@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuyang&theme=dark&show_icons=true)
 <br>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuyang)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuyang) -->
+
 |Skill|Rating|
 |:--|--:|
 |PHP|⭐⭐⭐|
@@ -26,3 +27,14 @@ Here are some ideas to get you started:
 |React|⭐⭐⭐⭐|
 |Python|⭐⭐⭐|
 |Go|⭐⭐|
+
+|Area|Ratin|
+|:--:|:--:|
+|Bank|⭐⭐⭐|
+|Music|⭐⭐⭐⭐|
+|Game|⭐⭐⭐⭐⭐|
+|Math|⭐⭐⭐|
+|
+
+
+### _Concat Me with i929625516@sina.com
