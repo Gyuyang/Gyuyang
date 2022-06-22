@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyuyang&show_icons=true&hide_border=true&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuyang&layout=compact&locale=en" />
-</div>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyuyang&theme=dark&show_icons=true)
 <br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuyang)
